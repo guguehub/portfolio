@@ -8,12 +8,18 @@
  gatsby new portfolio https://github.com/guguehub/portfolio.git
 
 aguarde a instalacao dos modulos
-terminado isso, saia da pasta digitando no terminal
+
+### terminado isso, saia da pasta digitando no terminal
 
 cd portfolio
 
-e depois digite para iniciar o servidor local (se tiver npm)
+### e depois digite para iniciar o servidor local (se tiver npm)
 npm start
 
-ou digite
+### ou digite
   gatsby develop
+
+### para acessar basta entrar em seu navegador e acessar a porta local 8000
+### ou copie e cole o endereco abaixo na barra de navegador
+
+https://localhost:8000
